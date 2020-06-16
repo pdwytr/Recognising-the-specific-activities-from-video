@@ -19,4 +19,11 @@ Sub Activity: Running and Throw the Ball etc.
 Mentor Name:  Disha G. Deotale	
 
 
-link to data and code:https://drive.google.com/drive/folders/1u2VpxYB4MJOQObPD5pOMytN0LU__IZyL?usp=sharing
+[data and code](https://drive.google.com/drive/folders/1u2VpxYB4MJOQObPD5pOMytN0LU__IZyL?usp=sharing)
+
+[blog link](https://medium.com/@saiteja.tummala23/recognizing-the-specific-activities-from-video-d7bcc80971b1)
+
+[summary Video](https://www.youtube.com/watch?v=A6rikbV9rcQ)
+ 
+[code Explanation](https://www.youtube.com/watch?v=aJnxXwAuht8&list=PLzXFqlHutRTpqbUMMhRd4XYn7FSS2DGvT)
+
